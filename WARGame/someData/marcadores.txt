@@ -1,0 +1,52 @@
+﻿Brasil|278 446
+Peru|232 487
+Venezuela|193 456
+Mexico|133 355
+California|126 250
+Vancouver|154 198
+Calgary|188 151
+Alasca|99 146
+Groelandia|326 115
+Quebec|279 201
+Reino Unido|467 185
+Suecia|530 146
+Franca|485 250
+Espanha|438 291
+Italia|532 255
+Ucrania|601 239
+Estonia|665 152
+Russia|787 151
+Cazaquistao|864 227
+Turquia|720 248
+Mongolia|874 260
+Japao|946 281
+China|798 291
+Paquistao|741 307
+Siria|680 296
+Jordania|633 353
+Arabia Saudita|657 388
+Iraque|675 342
+Ira|716 343
+Paquistao|759 350
+India|802 370
+Indonesia|898 506
+Australia|864 601
+Perth|797 618
+Nova Zelandia|934 642
+Nigeria|524 452
+Letonia|706 205
+Egito|580 412
+Argelia|456 362
+Africa do Sul|581 575
+Angola|556 516
+Nova York|250 252
+Argentina|274 554
+Texas|165 274
+Polonia|577 208
+Somalia|619 492
+Siberia|883 157
+Tailandia|896 378
+Bangladesh|846 382
+Coreia do Sul|871 340
+Coreia do Norte|866 313
+Romenia|583 277
